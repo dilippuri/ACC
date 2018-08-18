@@ -1,0 +1,2 @@
+Write a program to calculate x^y using normal method and the BinExponent Algorithm as attached in the figure. 
+Do a timing analysis between both programs similar to assignment 1

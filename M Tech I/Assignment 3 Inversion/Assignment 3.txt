@@ -1,0 +1,2 @@
+In an Array of n element; If for 2 indexes i and j, where i < j , if a[i] > a[j] , an INVERSION is formed.  
+Write programs to count NO OF INVERSION in a given array with time complexities O(n^2) and O(nlogn) respectively. 

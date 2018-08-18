@@ -1,0 +1,24 @@
+
+
+Write a program for Insertion sort, Merge sort, Quick sort and Heap sort to count number of exchanges/swaps required to sort the input data with Timing analysis. Consider worst case, best case and average case inputs to test your program. You can use any programming language. Upload your program to moodle with a read me file explaining what platform to use, what are the input parameters required for execution and how to execute it. Also write your conclusion in read me file.
+
+(FYI: Check it out and fill the output Format word file)
+
+Best Case Input: 1 2 4 3 5 6 7 8 9 10
+
+Worst Case Input : 10 9 8 7 6 5 4 3 2 1
+
+Average Case Input : 3 2 4 6 9 10 1 5 7 8
+
+Make use of the sample timing programing Timing.c attached with this assignment and measure the time required to perform sorting.
+
+In case, you are not able to see difference in time taken by any sorting technique for the given input, try using 1000 input values.
+
+Upload readme file explaining how to execute your program and results for every sorting techniques with best case, worst case and average case input values.
+
+Submit the output in the given format.
+
+Submit the all relavent files as a ZIP file. 
+
+Rename file name with your ID.
+
